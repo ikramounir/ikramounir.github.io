@@ -9,6 +9,6 @@
 </head>
 <body>
     <p>ikram OUNIR</p>
-  <p><a href="https://github.com/ikramounir/tp.github.io/blob/main/tp1">compte rendue tp1</a></p>
+  <p><a href="https://github.com/ikramounir/ikramounir.github.io/blob/main/cv.html">compte rendue tp1</a></p>
   </body>
   </html>
