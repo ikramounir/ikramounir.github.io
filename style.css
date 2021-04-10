@@ -1,2 +1,15 @@
 .form_style{
+font-family: 'Times New Roman', Times, serif; color: blue;
+}
+.img_style{ border: blue; size: 40px;
+}
+#h4_style{
+    color: cadetblue;font-family: serif;
+}
+#td_style{ 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;background-color: #cd5c5c;
+}
+#li_style{
+    font-family: serif;color: cornflowerblue;
+}
   
