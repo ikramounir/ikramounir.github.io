@@ -1,0 +1,125 @@
+.F{
+    width: 600px;
+    height: 400px;
+    position: relative;
+}
+
+
+.carre_11_abs{ 
+    
+    background:#fbe0c4;
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    margin-bottom: 5px;
+    position: absolute;
+   
+   
+ }
+ .carre_12_abs{
+     
+   
+    background: #8ab6d6;
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    margin-bottom: 5px;
+    position: absolute;
+    top: 147px;
+ }.carre_13_abs{ 
+    
+    background:#2978b5;
+    width: 100px;
+    height: 100px;
+    border :2px solid black;
+    margin-bottom: 5px;
+    position: absolute;
+    top: 254px;
+ }
+ .carre_21_abs{ 
+        
+    background:#fbe0c4;
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    position: absolute;
+   
+ }
+ .carre_22_abs{
+     
+   
+    background: #8ab6d6;
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    position: absolute;
+    left: 103px;
+    top: 144px;
+ }.carre_23_abs{ 
+    
+    background: #2978b5;
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    position: absolute;
+    left: 206px;
+    top: 248px;
+ }
+ .carre_31_abs{ 
+    display: inline-block;
+    background:#fbe0c4;
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    position: absolute;
+    
+ }
+ .carre_32_abs{
+     
+    display: inline-block;
+    background: #8ab6d6;
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    position: absolute;
+  left: 107px;
+ }.carre_33_abs{ 
+    
+    background: #2978b5;
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    position: absolute;
+    top: 150px;
+    
+    
+ }
+ .carre_41_abs{ 
+    margin-bottom: 5px;
+    background:#fbe0c4;
+    width: 204px;
+    height: 100px;
+    border: 2px solid black;
+    position: absolute;
+ }
+ .carre_42_abs{
+     
+    display: inline-block;
+    background: #8ab6d6;
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    position: absolute;
+    top: 150px;
+   
+ }.carre_43_abs{ 
+    display: inline-block;
+    background: #2978b5;
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    position: absolute;
+    top: 150px;
+    left: 105px;
+    
+ }
