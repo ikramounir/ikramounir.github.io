@@ -1,0 +1,115 @@
+.carre_21{ 
+        
+        background:#fbe0c4;
+        width: 90px;
+        height: 90px;
+        border: 2px solid black;
+        position: relative;
+        
+     }
+     .carre_22{
+         
+       
+        background: #8ab6d6;
+        width: 90px;
+        height: 90px;
+        border: 2px solid black;
+        position: relative;
+        left: 90px;
+     }.carre_23{ 
+        
+        background: #2978b5;
+        width: 90px;
+        height: 90px;
+        border: 2px solid black;
+        position: relative;
+        left: 180px;
+        
+     }
+     .carre_11{ 
+        
+        background:#fbe0c4;
+        width: 100px;
+        height: 100px;
+        border: 2px solid black;
+        margin-bottom: 5px;
+     }
+     .carre_12{
+         
+       
+        background: #8ab6d6;
+        width: 100px;
+        height: 100px;
+        border: 2px solid black;
+        margin-bottom: 5px;
+     }.carre_13{ 
+        
+        background:#2978b5;
+        width: 100px;
+        height: 100px;
+        border :2px solid black;
+        margin-bottom: 5px;
+     }
+     .carre_31{ 
+        display: inline-block;
+        background:#fbe0c4;
+        width: 100px;
+        height: 100px;
+        border: 2px solid black;
+        position: relative;
+        left:40px;
+     }
+     .carre_32{
+         
+        display: inline-block;
+        background: #8ab6d6;
+        width: 100px;
+        height: 100px;
+        border: 2px solid black;
+        position: relative;
+        left: 40px;
+       
+     }.carre_33{ 
+        
+        background: #2978b5;
+        width: 100px;
+        height: 100px;
+        border: 2px solid black;
+        position: relative;
+        left: 40px;
+        
+        
+     }
+     .carre_41{ 
+        margin-bottom: 5px;
+        background:#fbe0c4;
+        width: 204px;
+        height: 100px;
+        border: 2px solid black;
+        position: relative;
+     }
+     .carre_42{
+         
+        display: inline-block;
+        background: #8ab6d6;
+        width: 100px;
+        height: 100px;
+        border: 2px solid black;
+        position: relative;
+       
+     }.carre_43{ 
+        display: inline-block;
+        background: #2978b5;
+        width: 100px;
+        height: 100px;
+        border: 2px solid black;
+        position: relative;
+        
+        
+     }
+     
+     .col{
+        border: 3px solid black;
+    }
+   
+    .h1{ color: rgb(68, 139, 197);}
