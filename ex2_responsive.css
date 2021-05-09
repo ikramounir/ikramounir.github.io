@@ -1,0 +1,161 @@
+.header{
+    background-color: #1a508b;
+    width: 100%;
+    height: 100px;
+    border: 2px solid black; 
+    color: white;
+    text-align:center ;
+    margin-bottom: 10px;
+    position: relative;
+}
+.section0{
+    background-color:#c6ebc9;
+    width: 100%;
+    height: 80px;
+    border: 2px solid black; 
+    color: white;
+    text-align:center ;
+    margin-bottom: 10px;
+    position: relative;
+}
+.section1{
+    background-color: #C1A1D3;
+    width: 20%;
+    height: 150px;
+    border: 2px solid black; 
+    color: white;
+    margin-bottom: 7px;
+    text-align:center ;
+    position: relative;
+}
+.section2{
+    background-color: #48426d;
+    width: 20%;
+    height: 150px;
+    border: 2px solid black; 
+    color: white;
+    text-align:center ;
+    margin-bottom: 7px;
+    position: absolute;
+    left: 29.4%;
+    top: 215px;
+}
+.section3{
+    background-color: #f0c38e;
+    width: 20%;
+    height: 150px;
+    border: 2px solid black; 
+    color: white;
+    text-align:center ;
+    margin-bottom: 7px;
+    position: absolute;
+    left: 54.4%;
+    top: 215px;
+}
+.section4{
+    background-color: #f1aa9b;
+    width: 20%;
+    height: 150px;
+    border: 2px solid black; 
+    color: white;
+    text-align:center ;
+    margin-bottom: 7px;
+    position: absolute;
+    left: 79.4%;
+    top: 215px;
+}
+.section5{
+    background-color: #2978b5;
+    width: 49%;
+    height: 150px;
+    border: 2px solid black; 
+    color: white;
+    text-align:center ;
+    margin-bottom: 5px;
+    position: absolute;
+    top: 375px;
+}
+.section6{
+    background-color: #2978b5;
+    width: 45%;
+    height: 150px;
+    border: 2px solid black; 
+    color: white;
+    text-align:center ;
+    margin-bottom: 5px;
+    position: absolute;
+    left: 54.5%;
+    top: 375px;
+}
+.footer{
+    background-color: #665d91;
+    width: 99%;
+    height: 100px;
+    border: 2px solid black; 
+    color: white;
+    text-align:center ;
+    position: absolute;
+    top: 540px;
+}
+@media only screen and (min-width: 600px) and (max-width: 800px) {
+    /* For tablets: */
+    .header {width: 100%;}
+    .section0{width: 100%;}
+    .section1 {width: 50%;}
+    .section2{
+        width: 49%;
+        left: 52%;
+        top: 216px;}
+    .section3{
+        width: 49%;
+        top: 375px;
+        left: 1%;
+    }
+    .section4 {
+        width: 49%;
+        left: 52%;
+        top: 375px;}
+    .section5{
+        width: 100%;
+        top: 535px;
+        left: 1%;}
+    .section6{
+        width: 100%;
+        top: 695px;
+        left: 1%;}
+    .footer {
+        width: 100%;
+        top: 855px;
+        left: 1%;}
+   
+  }
+  @media only screen and (max-width: 600px) {
+    /* For phone: */
+    .header {width: 100%;}
+    .section0{width: 100%;}
+    .section1 {width: 100%;}
+    .section2{
+        width: 97%;
+        top: 380px;
+        left: 1.5%;}
+    .section3{
+        width: 97%;
+        top: 540px;
+        left: 1.5%;}
+    .section4 {
+        width: 97%;
+        top: 700px;
+        left: 1.5%;}
+    .section5{
+        width: 97%;
+        top: 860px;
+        left: 1.5%;}
+    .section6{
+        width: 97%;
+        top: 1020px;
+        left: 1.5%;}
+    .footer {
+        width: 97%;
+        top: 1180px;
+        left: 1.5%;}
+  }
